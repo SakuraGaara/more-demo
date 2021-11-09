@@ -21,4 +21,4 @@ alias d=cd
 alias tailf="tail -f"
 alias uuid=uuidgen
 
-export PS1="\n[ \[\e[0;35m\]\u\[\e[0m\]@\[\e[0;31m\]\`hostname\`\[\e[0m\]:\[\e[0;33m\]\`pwd\`\[\e[0m\] \[\e[0;32m\]\`date '+%Y-%m-%d %H:%M:%S %a'\`\[\e[0m\] ]\n\\\$ "
+export PS1="\n[ \[\e[0;35m\]\u\[\e[0m\]@\[\e[0;31m\]\`hostname\`\[\e[0m\]:\[\e[0;33m\]\`pwd\`\[\e[0m\] \[\e[0;32m\]\`date '+%Y-%m-%d %H:%M:%S %a'\`\[\e[0m\] ]\n 🌹 "
